@@ -45,7 +45,8 @@ jupyter notebook "Covid-19 Visualization.ipynb"
 
 ## 📌 Data Source
 
-Data sourced from publicly available COVID-19 datasets (e.g., [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19) or [Our World in Data](https://ourworldindata.org/coronavirus)).
+Data is sourced directly from the [datasets/covid-19](https://github.com/datasets/covid-19) repository:
+https://raw.githubusercontent.com/datasets/covid-19/main/data/countries-aggregated.csv
 
 ## 🙌 Contributing
 
