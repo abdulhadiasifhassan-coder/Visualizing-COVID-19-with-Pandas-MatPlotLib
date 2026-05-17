@@ -1,10 +1,15 @@
 # 🦠 Visualizing COVID-19 with Pandas & Matplotlib
 
-A data visualisation project that analyses and presents COVID-19 statistics using Python, Pandas, and Matplotlib.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+A data visualization project that analyzes and presents COVID-19 statistics using Python, Pandas, and Matplotlib.
 
 ## 📊 Overview
 
-This project explores global COVID-19 data through interactive and static visualisations, providing insights into the spread, trends, and impact of the pandemic across different regions and time periods.
+This project explores global COVID-19 data through interactive and static visualizations, providing insights into the spread, trends, and impact of the pandemic across different regions and time periods.
 
 ## 🛠️ Technologies Used
 
@@ -19,6 +24,7 @@ Visualizing-COVID-19-with-Pandas-MatPlotLib/
 ├── Covid-19 Visualization.ipynb   # Main Jupyter notebook
 ├── .gitattributes
 └── README.md
+
 ## 📈 Visualizations Include
 
 - Total confirmed cases over time
