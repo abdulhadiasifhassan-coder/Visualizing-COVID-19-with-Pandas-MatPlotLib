@@ -19,11 +19,13 @@ This project explores global COVID-19 data through interactive and static visual
 - **Jupyter Notebook** – interactive development environment
 
 ## 📁 Project Structure
+```
 Visualizing-COVID-19-with-Pandas-MatPlotLib/
 │
 ├── Covid-19 Visualization.ipynb   # Main Jupyter notebook
 ├── .gitattributes
 └── README.md
+```
 
 ## 📈 Visualizations Include
 
